@@ -169,3 +169,11 @@ Tests cover:
 * Weekly AI Coach evaluations and strict privacy guardrails.
 * ChromaDB vector storage and semantic search.
 * Webhook secret security and external ingestion pipelines.
+
+
+-----
+[frontend](https://productive-frontend.vercel.app/)
+[bakend](https://productive-backend-seven.vercel.app/)
+[demo](https://docs.google.com/document/d/1StMvLTfBLNzHMOVNHWnuwm84mAjH2UAi4JP1ltpgI10/edit?usp=sharing)
+[ Complete Setup & Installation Guide-](https://docs.google.com/document/d/1_we3HOl8b79Ssgka2XLHcTSFc46B9xkAF1O2A6bz8eI/edit?usp=sharing)
+[Productive — Project Documentation](https://docs.google.com/document/d/1pGK4MevUn7gvFUt5IelaMGmUs-y977PgMIQMkud0jK4/edit?usp=sharing)
