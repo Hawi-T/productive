@@ -18,7 +18,7 @@ def _set_auth_cookie(response: Response, token: str):
         key="access_token",
         value=token,
         httponly=True,   # Inaccessible to JS - protects against XSS token theft
-        secure=False,    # Set to True when deploying to HTTPS in production
+        secure=True,    # Set to True when deploying to HTTPS in production
         samesite="lax",  # Protects against Cross-Site Request Forgery (CSRF)
         max_age=settings.ACCESS_TOKEN_EXPIRE_MINUTES * 60,
     )
